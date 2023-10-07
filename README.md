@@ -3,4 +3,4 @@
 Group java backend project.
 
 <h2>Commit overview:</h2>
-<p align="center"><img src="/Screenshots/group_project.png" width=800></p>
+<p align="center"><img src="/screenshots/group_project.png" width=800></p>
